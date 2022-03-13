@@ -1,33 +1,22 @@
-# TASK-NAME
+# The Movie Class
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+Given the following code:
 
-## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/{REPO_NAME}) to your `Development` folder.
+```dart
+void main() {
+  final movie = {
+    'name': 'The Amazing SpiderMan',
+    'genre': 'Action',
+    'ratings': [1.5,3.2,6.4]
+  };
+  print(movie['name']);
+  print(movie['genre']);
+  print(movie['ratings']);
+}
+```
 
-## Objective and end result
-- Write the objective of the task.
-- If there are any images, make sure you resize them to around 880px maximum width. **Don't add big images**
+Refactor the code by creating a `Movie` class with the following properties: `name`, `genre` and `ratings`.
 
-![screenshot](https://tenor.com/xNjE.gif)
+And create a method to print the movie details `printDetails`.
 
-
-### 🍋 The basic challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🤼‍♂️ The hard challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🌶 The Extreme challenge title 
-
-- Step 1
-- Step 2
-- Step 3
+Create two instances of the `Movie` class and call the `printDetails` methods on them.
