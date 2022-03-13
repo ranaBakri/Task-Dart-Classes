@@ -1,4 +1,4 @@
-# The Movie Class
+# The Movie Class 🎬
 
 Given the following code:
 
