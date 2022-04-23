@@ -1,4 +1,4 @@
-# The Movie Class 🎬
+### 🍋 The Movie Class 🎬
 
 Given the following code:
 
@@ -21,7 +21,7 @@ And create a method to print the movie details `printDetails`.
 
 Create two instances of the `Movie` class and call the `printDetails` methods on them.
 
-# Loyal Customers 🤵‍♂️
+### 🍋 Loyal Customers 🤵‍♂️
 
 Givin the following class:
 
