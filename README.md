@@ -1,3 +1,7 @@
+### Setup
+1. Fork and clone [this repo](https://github.com/JoinCODED/Task-Dart-Classes).
+2. Write your code in `main.dart`.
+
 ### 🍋 The Movie Class 🎬
 
 Given the following code:
